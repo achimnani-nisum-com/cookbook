@@ -1,5 +1,10 @@
+<<<<<<< HEAD
+=======
+Apple Pi
+>>>>>>> alkesh
 pastry
 butter
 flour
 sugar
 apples
+1 thsp cinnamon
